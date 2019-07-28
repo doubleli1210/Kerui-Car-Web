@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #373737;
+    margin: 0px;
+}
+.main {
+    background-image: url(../images/body.jpg);
+    font-family: "微软雅黑";
+    font-size: 14px;
+    text-align: left;
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    line-height: 270px;
+    text-indent: 65%;
+}
+.daohang {
+    font-family: "黑体";
+    color: #FFFFFF;
+    text-align: left;
+    text-indent: 30px;
+    font-size: 18px;
+}
+a {
+    font-family: "黑体";
+    color: #FFFFFF;
+    font-weight: normal;
+    text-decoration: none;
+}
+a:hover {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #E35D5D;
+}
+.jj {
+    padding: 0px;
+    background-image: url(123);
+}
+.jieshao {
+    padding-top: 50px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    text-indent: 30px;
+    font-family: "宋体";
+    font-size: 13px;
+    text-align: justify;
+}
